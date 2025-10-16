@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="try">
+        <file>bg.jpg</file>
+        <file>map.png</file>
+    </qresource>
+</RCC>
